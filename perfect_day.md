@@ -11,7 +11,7 @@ Nothing's standing in my way
 On this perfect day
 When nothing can go wrong
 It's the perfect day
-Tomorrow's gonna come too soon
+Tomorrow's gonna come soon
 I could stay
 Forever as I am
 On this perfect day
