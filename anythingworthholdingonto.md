@@ -28,7 +28,7 @@ When you're so far from home
 When you've lost of signs of hope
 When you're searching for salvation, but it feels so far away
 When the words disappear and the melody is unclear
-When there is nothing left inside of you
+When there is nothing left
 Is there anything worth holding on to
 'Cause I will still be holding on
 To everything worth holding on to
