@@ -30,7 +30,7 @@ As the days keep coming on
 The midnight sky turns to dawn
 Today, today
 What felt so far away feels a little closer
-For today, today, today
+For today
 It feels a little closer
 A little closer
 It feels a little closer
