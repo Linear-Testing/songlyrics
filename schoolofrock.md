@@ -5,7 +5,7 @@ But we were stuck in a dumb daze.
 Don’t take much to memorize your lie.
 I feel like I've been hypnotisized.
 And then that magic man; he come to town.
-Whoo wee!
+Whoo wee!!!
 He just spun my head around.
 He said, "Recess is in session.
 Two and two make five."
