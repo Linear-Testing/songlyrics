@@ -20,3 +20,4 @@ Her hair curls in the damp of the night
 The scent recalls like a photograph with life
 Her woollen coat under yellow sodium light
 Records the air like a memory of night
+too
