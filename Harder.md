@@ -17,7 +17,6 @@ And if you fall down, you get up
 Don't you give in, don't give up
 Even if you feel like going harder
 You're still here, don't forget
-Take a breath, fight harder
 I'd look in the mirror wishing she could go away
 Never thought that I would still be here today
 I'm still fighting but I'm stronger every step I take along the way
