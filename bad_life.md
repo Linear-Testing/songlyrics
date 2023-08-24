@@ -4,7 +4,7 @@ Every now and then we get that feeling in our chest
 Some days I'm a loser, brush my teeth in the dark
 Head above water in a swimming pool of sharks
 Ooh, it's hard to get up out of bed when everything is on its head
-And nothing seems to make any sense
+And nothing seems to make any sensesd
 Like a Bandaid on a bleeding heart
 A fake a smile and fall apart
 And no one ever knows I'm a wreck
