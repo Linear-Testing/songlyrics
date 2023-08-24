@@ -12,7 +12,7 @@ That's when you get up and you fight harder
 It's just you and the dark, and a bruised broken heart
 But you'll go farther
 Through the fire, through the rain, through the tears, and the shame
-And if you fall down, you get up
+And if you fall down, you get ups
 
 Don't you give in, don't give up
 Even if you feel like going harder
