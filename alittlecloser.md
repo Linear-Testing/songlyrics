@@ -7,7 +7,7 @@ I've been drifting, I've been dreaming
 I would land upon the shore
 To a haven, to a harbor
 It felt so far before
-Well, today, today
+Well, today, todaycv
 What felt so far away feels a little closer
 For today, today, today
 Feels a little closer
