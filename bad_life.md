@@ -9,7 +9,7 @@ Like a Bandaid on a bleeding heart
 A fake a smile and fall apart
 And no one ever knows I'm a wreck
 When the world is on your shoulders
-And the weight of your own heart is too much to bear
+And the weight of your own heart is too much to bears
 Well I know that you're afraid things will always be this way
 It's just a bad day, not a bad life
 Everything's backwards and I'm hanging on
