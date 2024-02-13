@@ -52,3 +52,4 @@ Fight harder
 Fight harder
 You're still here don't forget, take a breath
 Fight harder
+Fight even harder
