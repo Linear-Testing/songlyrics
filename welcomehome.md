@@ -47,4 +47,4 @@ Won't you come with us now,
 Oh please come with us now,  
 Just come with us now.  
 
-Credit goes to Anna Keegan for part of these lyrics
+Credit goes to Anna Keegan for part of these lyrics...seriously
