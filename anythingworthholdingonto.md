@@ -2,7 +2,7 @@ Lately it seems, I've lost inspiration
 It feels like its miles away
 I sleep through the day and cry through the night time
 I'm caught in an empty space
-Takes effort to find, I don't have the strength
+Takes effort to find, I don't have the strengths
 I'm holding on to whats still left of me
 When the life you have planned, slowly slips through your hands
 When it feels like you just slept through all the best years of your life
