@@ -40,4 +40,4 @@ And I know it feels so hopeless
 And I know how close you are to the edge right now
 So I wrote this song to say, things won't always be this way, no
 It's just a bad day, not a bad life
-Yeah, it's just a bad day, not a bad life
+
