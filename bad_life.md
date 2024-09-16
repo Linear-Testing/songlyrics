@@ -31,7 +31,7 @@ So I wrote this song to say, things won't always be this way, no
 It's just a bad day, not a bad life
 Ooh, yeah
 Yeah-yeah
-Yeah, oh
+Yeah, oh boy
 When the world is on your shoulders
 And the weight of your own heart is too much to bear
 Well I know that you're afraid things will always be this way
