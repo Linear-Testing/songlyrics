@@ -24,7 +24,7 @@ But today, today
 What felt so far away feels a little closer
 For today, today, today
 It feels a little closer
-And the days carry on
+And the days carry onn
 The clouds come rolling in and then they're gone
 As the days keep coming on
 The midnight sky turns to dawn
