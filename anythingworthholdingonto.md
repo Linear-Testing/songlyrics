@@ -10,7 +10,7 @@ When you can't find your way
 When each day ends the same
 When you have lost the fight inside of you
 Is there anything worth holding on to?
-It's hard to be strong, when weakness is stronger
+It's hard to be strong, when weakness is stronger,
 I'm a prisioner in my own skin
 I'm not good on my own, I need to be cared for
 Someone to help these days begin
