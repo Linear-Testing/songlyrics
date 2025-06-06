@@ -1,1 +1,25 @@
-it's a wonderful phrase
+// HakunaMatata class implementation
+class HakunaMatata {
+  constructor() {
+    this.worryLevel = 0;
+  }
+  
+  noWorries() {
+    this.worryLevel = 0;
+    return "Problem-free philosophy";
+  }
+  
+  getPhilosophy() {
+    return "It means no worries for the rest of your days";
+  }
+  
+  applyPhilosophy(problem) {
+    console.log(`${problem}? Hakuna Matata!`);
+    return true;
+  }
+}
+
+// Example usage
+const myLifePhilosophy = new HakunaMatata();
+myLifePhilosophy.noWorries();
+myLifePhilosophy.applyPhilosophy("Feeling down");
