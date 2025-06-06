@@ -1,1 +1,15 @@
-it's a wonderful phrase
+#!/usr/bin/env python3
+
+def hakuna_matata():
+    """
+    A function that returns a message about having no worries.
+    This is a demonstration of proper code instead of song lyrics.
+    """
+    print("Hakuna Matata! It means no worries!")
+    return "No worries for the rest of your days!"
+
+if __name__ == "__main__":
+    # Main execution block
+    result = hakuna_matata()
+    print(f"Result: {result}")
+    print("It's our problem-free philosophy!")
